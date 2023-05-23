@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Pavel Aleksandrov](https://up.htmlacademy.ru/htmlcss/37/user/2374543).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Изосимов](https://htmlacademy.ru/profile/id605037).
 
 ---
 
